@@ -8,42 +8,70 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa04f8407bd5c1e3",
+            "id": "827e01e79ba648b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-08-13.md",
+                "file": "思考与对话/关于学习心理学的思考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-13"
+              "title": "关于学习心理学的思考"
             }
           },
           {
-            "id": "2b0be1e870c0b50b",
+            "id": "092d7b66bce6aac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-08-13.md",
+                "file": "思考与对话/关于学习心理学的思考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-13"
+              "title": "关于学习心理学的思考"
+            }
+          },
+          {
+            "id": "c664def4dde762d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考与对话/Lisa的回答20260813-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lisa的回答20260813-02"
+            }
+          },
+          {
+            "id": "48e14bb54da61faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "作品推荐/《也许你该找个人聊聊》.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《也许你该找个人聊聊》"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
-        "id": "506aab0406a3cf76",
+        "id": "2124cdd8e2f30e6d",
         "type": "tabs",
         "children": [
           {
-            "id": "c44e6bbaedeb56e5",
+            "id": "68ed94b2793d0ddd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -71,7 +99,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -130,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-08-13.md",
+                "file": "作品推荐/《也许你该找个人聊聊》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-08-13.md",
+                "file": "作品推荐/《也许你该找个人聊聊》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -192,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-08-13.md",
+                "file": "作品推荐/《也许你该找个人聊聊》.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,10 +247,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2b0be1e870c0b50b",
+  "active": "36ff197751511d96",
   "lastOpenFiles": [
-    "欢迎.md",
-    "2026-08-13.md",
+    "未命名.md",
+    "工具类/欢迎.md",
+    "思考与对话/小满美照1.jpg",
+    "思考与对话/关于我与小满关系的思考.md",
+    "作品推荐/《也许你该找个人聊聊》.md",
+    "思考与对话",
+    "作品推荐",
+    "工具类",
+    "思考与对话/Lisa的回答20260813-02.md",
+    "思考与对话/关于学习心理学的思考.md",
+    "思考与对话/Lisa的回答20260813-01.md",
+    "Lisa心理学助手的分析.md",
+    "31bf8690886c07b4f5e90ce2f018db60.jpg",
+    "工具类/GitHub使用手册.md",
     "未命名.canvas",
     "未命名.base",
     "未命名 1.base"
